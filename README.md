@@ -1,6 +1,6 @@
-# Aurora Signal Observatory
+# Zimo Zhou — Personal Website
 
-Personal GitHub Pages homepage for FelixtheFelinae: a quiet robotics research archive built with React, TypeScript, Tailwind CSS and Vite.
+A focused academic-style personal homepage for Zimo Zhou, covering robotics research, publications, selected projects and working notes. Built with React, TypeScript, Tailwind CSS and Vite.
 
 ## Local development
 
